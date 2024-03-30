@@ -5,7 +5,7 @@
 
 ```
 $ git clone https://github.com/weigelworld/minitv
-$ python3 -m virtualenv .minitv-venv
+$ python3 -m venv .minitv-venv
 $ source .minitv-venv/bin/activate
 $ pip install minitv/
 ```
